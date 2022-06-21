@@ -1,0 +1,34 @@
+[
+    {
+        "organization": "owls-nest-farm",
+        "repositories": [
+            {
+                "name": "foo",
+                "private": false,
+                "visibility": "public",
+                "tpl_name": "kilgore-trout",
+                "collaborators": [
+                    "iamabeaglepuppy",
+                    "iamkilgoretrout"
+                ]
+            },
+            {
+                "name": "bar",
+                "private": false,
+                "visibility": "public",
+                "tpl_name": "kilgore-trout",
+                "collaborators": [
+                    "iamkilgoretrout"
+                ]
+            },
+            {
+                "name": "quux",
+                "private": true,
+                "visibility": "public",
+                "tpl_name": "kilgore-trout",
+                "archived": true
+            }
+        ]
+    }
+]
+
